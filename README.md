@@ -1,6 +1,6 @@
 # Android MVVM Example
 
-Built primarily as a self learning excercise using the following appraoch: 
+Built primarily as a self learning excercise using the following approach: 
 
 - MVVM
 - Clean Architecture
